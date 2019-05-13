@@ -50,13 +50,24 @@ footer {
 }
 
 .article-actions {
-  border-top: 1px solid #000;
+  border-top: 1px solid #eaeaea;
   padding-top: 5px;
 }
 
 .description {
   text-align: center;
   margin-top: 0;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 footer a:hover {
